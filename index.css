@@ -1,0 +1,18 @@
+body {
+  background-image: url("https://wallpapercave.com/wp/wp2832043.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+.registration {
+  position: relative;
+}
+.registration > img {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+
+.btn {
+  background-color: #6870f3;
+  border: transparent;
+}
